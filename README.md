@@ -1,1 +1,1 @@
-Somebody that writes code for fun
+Somebody that writes code and do things for fun
