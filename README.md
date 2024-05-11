@@ -1,5 +1,5 @@
 # 👋 Hello
-Somebody that writes code and do things for 3 reasons:
+I'm somebody that writes code and do things for 3 reasons:
 - Because I can
 - Because why not
 - Because it's fun
