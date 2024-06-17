@@ -15,5 +15,5 @@ I also like blur effects a lot.
 
 I like to code in **C++**, but I also like web developement (**HTML**, **CSS**, and **JavaScript**).
 
-Some stats with [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) because why not:\
+Some stats because why not:\
 [![Hlelo's GitHub](https://github-readme-stats.vercel.app/api?username=hlelo101&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
