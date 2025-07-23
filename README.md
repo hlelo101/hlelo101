@@ -19,3 +19,4 @@ Some stats because why not:\
 [![hlelo101's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlelo101)](https://github.com/anuraghazra/github-readme-stats)\
 [Fractal account](https://github.com/hlelo101/fractal-account/) vID! (If it doesn't show up... Welp, guess the server died)\
 ![Fractal vID](https://accounts.hlelo.cc/vidpng/1)
+![Hai](https://accounts.hlelo.cc/vidpng/3)
