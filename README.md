@@ -16,4 +16,6 @@ I like to code in **C/C++**, but I also like web developement (**HTML**, **CSS**
 I should really try to learn new languages tho...
 
 Some stats because why not:\
-[![hlelo101's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlelo101)](https://github.com/anuraghazra/github-readme-stats)
+[![hlelo101's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlelo101)](https://github.com/anuraghazra/github-readme-stats)\
+[Fractal accounts](https://github.com/hlelo101/fractal-accounts/) vID! (If it doesn't show up... Welp, guess the server died)\
+![Fractal vID](https://accounts.hlelo.cc/vidpng/1)
