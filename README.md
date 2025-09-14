@@ -21,4 +21,4 @@ Some stats because why not:\
 ![Fractal vID](https://accounts.hlelo.cc/vidpng/1)
 ![Hai](https://accounts.hlelo.cc/vidpng/3)
 
-Some of my projects are now at [forgejo.hlelo.cc](https://forgejo.hlelo.cc/Hlelo/Acky)
+Some of my projects are now at [forgejo.hlelo.cc](https://forgejo.hlelo.cc/Hlelo)
