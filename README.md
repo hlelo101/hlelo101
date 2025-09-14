@@ -20,3 +20,5 @@ Some stats because why not:\
 [Fractal account](https://github.com/hlelo101/fractal-account/) vID! (If it doesn't show up... Welp, guess the server died)\
 ![Fractal vID](https://accounts.hlelo.cc/vidpng/1)
 ![Hai](https://accounts.hlelo.cc/vidpng/3)
+
+Some of my projects are now at [forgejo.hlelo.cc](https://forgejo.hlelo.cc/Hlelo/Acky)
