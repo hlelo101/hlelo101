@@ -12,7 +12,7 @@ You can take a look at [my website](https://hlelo.cc), if you want.
 
 I also like blur effects a lot.
 
-I like to code in **C/C++**, but I also like web developement (**HTML**, **CSS**, and **JavaScript**).\
+I like to code in **C/C++**, but I also like web developement (**HTML**, **CSS**, and **JavaScript**) a bit.\
 I should really try to learn new languages tho...
 
 Some stats because why not:\
@@ -21,4 +21,5 @@ Some stats because why not:\
 ![Fractal vID](https://accounts.hlelo.cc/vidpng/1)
 ![Hai](https://accounts.hlelo.cc/vidpng/3)
 
-Some of my projects are now at [forgejo.hlelo.cc](https://forgejo.hlelo.cc/Hlelo)
+Some of my projects are now at [forgejo.hlelo.cc](https://forgejo.hlelo.cc/Hlelo)\
+I won't use GitHub much now.
